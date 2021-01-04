@@ -1,1 +1,1 @@
-В этом блоке реализованы интереснейшие задачи по многопоточному программированию на C++ по программе Операционные Системы
+This repository contains interesting problems on multi-threaded programming in C++ by Operating Systems
